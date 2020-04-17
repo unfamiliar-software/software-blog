@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Unfamiliar Software
 
-You can use the [editor on GitHub](https://github.com/unfamiliar-software/software-blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### welcome
+You have reached the unfamiliar software blog. The goal of this blog is to write about... you guessed it... unfamiliar software! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### tell me more
+**what exactly do you write about here?** -- The blog will have posts that attempt to explain software tools, libraries, and features in general easy to digest terms.
 
-### Markdown
+**Are you some sort of an expert?** -- Nope! Well sort of! but definitely not really. To be more clear, I am a software developer. I make my living writing software for a company that sells that software to people to make their lives better. But I am not going to use this blog to write about that because I already spend so much of my life writing in those languages. I would rather spend my time learning about new technologies, languages, and tools.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Should I read this blog?** -- I think so! My hope is that these blog posts will be useful for individuals who want to fill in thei mental picture of the field of computer sciece.
 
-```markdown
-Syntax highlighted code block
+**How will this blog be written?** -- I believe that there is too much very detailed writing about coding. Blog posts or entire books about a very specific language are easy to come by. I want to write posts here that are enjoyable to read over a cup of coffee in the morning.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unfamiliar-software/software-blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
